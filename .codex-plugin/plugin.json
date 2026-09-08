@@ -1,11 +1,11 @@
 {
   "name": "claude-code-orchestrator",
-  "version": "0.1.0+codex.20260805045002",
+  "version": "0.2.0+codex.20260908035000",
   "description": "Run and manage Claude Code sessions from Codex through MCP.",
   "author": {
     "name": "Local developer"
   },
-  "skills": "./skills/",
+  "skills": "./codex-skills/",
   "interface": {
     "displayName": "Claude Code Orchestrator",
     "shortDescription": "Orchestrate Claude Code sessions from Codex.",
@@ -17,5 +17,5 @@
       "Use Claude Code to run a focused parallel worker for this task."
     ]
   },
-  "mcpServers": "./.mcp.json"
+  "mcpServers": "./codex.mcp.json"
 }
