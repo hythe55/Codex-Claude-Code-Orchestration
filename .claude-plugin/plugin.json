@@ -1,0 +1,8 @@
+{
+  "name": "codex-orchestrator",
+  "description": "Run Codex/GPT workers from Claude Code as native background tasks that wake the parent session on completion.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./claude-skills/"
+}
