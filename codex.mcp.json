@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "claude-code": {
+      "command": "node",
+      "args": ["C:/Users/caden/plugins/claude-code-orchestrator/server/index.js"]
+    }
+  }
+}
